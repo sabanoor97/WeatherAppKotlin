@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="apiKey">ea59bd03027ab3b22a3cc716921d22c0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
